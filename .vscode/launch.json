@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinimumCostDecoration",
+            "request": "launch",
+            "mainClass": "Answer1a.MinimumCostDecoration",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "EngineBuilder",
+            "request": "launch",
+            "mainClass": "Answer1b.EngineBuilder",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "ProductionLineManager",
+            "request": "launch",
+            "mainClass": "Answer2a.ProductionLineManager",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "SecretSharing",
+            "request": "launch",
+            "mainClass": "Answer2b.SecretSharing",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "ScoreTrackerApp",
+            "request": "launch",
+            "mainClass": "Answer3a.ScoreTrackerApp",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "KruskalAlgorithm",
+            "request": "launch",
+            "mainClass": "Answer3b.KruskalAlgorithm",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "MazeSolver",
+            "request": "launch",
+            "mainClass": "Answer4a.MazeSolver",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "ClosestValuesInBST",
+            "request": "launch",
+            "mainClass": "Answer4b.ClosestValuesInBST",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "TravellingSalesman",
+            "request": "launch",
+            "mainClass": "Answer5a.TravellingSalesman",
+            "projectName": "DSA-Programming_6ab1bb28"
+        },
+        {
+            "type": "java",
+            "name": "UniqueParentNodesFinder",
+            "request": "launch",
+            "mainClass": "Answer5b.UniqueParentNodesFinder",
+            "projectName": "DSA-Programming_6ab1bb28"
+        }
+    ]
+}
